@@ -1,5 +1,6 @@
 # MNISTDCNNEncode
-training a Deep CNN model and using it to encode MNIST numbers 
+training a Deep CNN model on MNIST hand written digits.
+Later using it to encode MNIST numbers.
 ### Encoding
 28,28,1 to 7,7,4
 
