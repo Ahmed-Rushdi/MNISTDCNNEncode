@@ -1,10 +1,10 @@
 # MNISTDCNNEncode
-training a Deep CNN model on MNIST hand written digits.
-Later using it to encode MNIST numbers.
-### Encoding
+training a Deep CNN model on MNIST hand written digits.<br/>Later using it to encode MNIST numbers.
+### Kaggle notbook link: https://www.kaggle.com/ahmedrushdi/mnist-generative-dcnn
+## Encoding
 28,28,1 to 7,7,4
 
-### Decoding
+## Decoding
 7,7,4 to 28,28,1
 
 ## Model Structure
