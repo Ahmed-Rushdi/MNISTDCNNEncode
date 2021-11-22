@@ -8,7 +8,7 @@ training a Deep CNN model and using it to encode MNIST numbers
 
 ## Model Structure
 
-|Layer (type)                   |Output Shape       |Param #|
+|Layer (type)                   |Output Shape       |Param |
 |-----------------------------------------------------------|
 |input_1 (InputLayer)           |[(None, 28, 28, 1)]|0      |
 |conv2d (Conv2D)                |(None, 28, 28, 100)|1000   |
